@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uge:home|Door43 (uge)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uge|d43-uge repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uge/archive/master.zip|d43-uge.zip]]
+
+**Recent Changes**
+{{changes>ns = uge}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uge|Ethnologue data]]
+
